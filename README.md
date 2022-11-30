@@ -1,4 +1,4 @@
-# Image Restoration Comparison
+# Denoising Images with Deep Learning: A Comparison of Techniques
 
 [![Open In Colab](https://raw.githubusercontent.com/amrzv/awesome-colab-notebooks/main/images/colab.svg)](https://colab.research.google.com/drive/1a_V8JgDADzc4DnRziOVm9FWgQwrsLeOf)
 
